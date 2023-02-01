@@ -5,7 +5,7 @@ const { Navbar, Container, Nav, NavDropdown, Button } = require("react-bootstrap
 
 export default function Navbarr() {
     return (
-        <Navbar style={{ backgroundColor: "#152A46" }} expand="lg" variant="dark">
+        <Navbar style={{ backgroundColor: "#2D4059" }} expand="lg" variant="dark">
             <Container>
                 <Navbar.Brand className='d-flex align-items-center' href="#">
                     <Logoo w="33" h="34"/>

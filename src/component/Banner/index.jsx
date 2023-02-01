@@ -3,7 +3,7 @@ import Ciwi from "../../assets/Image/Ciwi.png";
 
 export default function Bannerr() {
     return (
-        <div style={{backgroundColor: "#152A46"}}>
+        <div style={{backgroundColor: "#2D4059"}}>
             <Container className="d-flex justify-content-center">
                 <div className="row w-100 text-white align-items-center" style={{height: "76.9vh"}}>
                     <span className="col lh-lg">
