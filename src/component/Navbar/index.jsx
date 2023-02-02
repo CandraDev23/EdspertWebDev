@@ -19,18 +19,17 @@ export default function Navbarr() {
                         navbarScroll
                     >
                         <NavDropdown title="Program" id="navbarScrollingDropdown">
+                            <NavDropdown.Item href="#action4">Online Course</NavDropdown.Item>
+                            <NavDropdown.Item href="#action3">Mini Bootcamp</NavDropdown.Item>
                             <NavDropdown.Item href="#action3">Bootcamp</NavDropdown.Item>
-                            <NavDropdown.Item href="#action4">Course</NavDropdown.Item>
                             <NavDropdown.Divider />
                             <NavDropdown.Item href="#action5">See all</NavDropdown.Item>
                         </NavDropdown>
                         <NavDropdown title="Bidang Ilmu" id="navbarScrollingDropdown">
-                            <NavDropdown.Item href="#action3">React Js</NavDropdown.Item>
-                            <NavDropdown.Item href="#action4">Next Js</NavDropdown.Item>
-                            <NavDropdown.Item href="#action4">Vue Js</NavDropdown.Item>
-                            <NavDropdown.Item href="#action4">Django</NavDropdown.Item>
-                            <NavDropdown.Item href="#action4">Laravel</NavDropdown.Item>
-                            <NavDropdown.Item href="#action4">React Native</NavDropdown.Item>
+                            <NavDropdown.Item href="#action3">Digital Marketing</NavDropdown.Item>
+                            <NavDropdown.Item href="#action4">Product Management</NavDropdown.Item>
+                            <NavDropdown.Item href="#action4">English</NavDropdown.Item>
+                            <NavDropdown.Item href="#action4">Programming</NavDropdown.Item>
                             <NavDropdown.Divider />
                             <NavDropdown.Item href="#action5">See all</NavDropdown.Item>
                         </NavDropdown>
